@@ -1,0 +1,17 @@
+.page {
+    background: #FAF9F4;
+    padding-top: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    position: sticky;
+    min-height: 100vh;
+}
+
+.container {
+    width: 375px;
+    margin: 0rem 1rem;
+    padding: 0rem 1rem;
+}

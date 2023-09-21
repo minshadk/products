@@ -24,7 +24,7 @@ The data is fetched from https://www.slingacademy.com/
 
  Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/react-product-catalog.git
+git clone https://github.com/minshadk/products.git
 
 cd react-product-catalog
 ```
